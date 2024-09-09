@@ -30,14 +30,14 @@ In this lab, we perform **intrusion detection** on the **NSL-KDD dataset**, whic
 1. Clone the repository:
    ```bash
    git clone https://github.com/RahmonexTheOne/EFREI-Big-Data-M1.git
-      ```
+     ```
 2. Navigate to each lab directory and run the respective Python scripts or Jupyter notebooks.
 
 3. Ensure that the necessary dependencies are installed using:
 
    ```bash
 pip install -r requirements.txt
-      ```
+     ```
 
 ## Dependencies
 
