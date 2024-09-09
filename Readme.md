@@ -29,7 +29,7 @@ In this lab, we perform **intrusion detection** on the **NSL-KDD dataset**, whic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/big-data-labs.git
+   git clone https://github.com/RahmonexTheOne/EFREI-Big-Data-M1.git
    ```
 Navigate to each lab directory and run the respective Python scripts or Jupyter notebooks.
 
