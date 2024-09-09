@@ -36,7 +36,7 @@ In this lab, we perform **intrusion detection** on the **NSL-KDD dataset**, whic
 3. Ensure that the necessary dependencies are installed using:
 
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
      ```
 
 ## Dependencies
